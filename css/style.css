@@ -1,0 +1,27 @@
+body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Quote_right_font_awesome.svg/2000px-Quote_right_font_awesome.svg.png");
+  background-position: 50% 40%;
+  background-size:700px;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+
+#title{
+  color: black;
+  font-family: Rubik, Monospace;
+}
+
+.well{
+  opacity: 0.9;
+}
+
+button{
+
+}
+
+.main-box{
+  margin: 0 auto;
+  width: 500px;
+  height: 250px;
+  font-family: Rubik, Monospace;
+}
